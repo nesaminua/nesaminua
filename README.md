@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Denys Zaichenko</h1>
-<h3 align="center">Forward Deployed AI Engineer · Porto, Portugal</h3>
+<h3 align="center">Forward Deployed AI Engineer · Portugal</h3>
 
 <p align="center">
   <a href="https://madsalt.tech/"><img src="https://img.shields.io/badge/website-madsalt.tech-0e75b6?style=for-the-badge" alt="madsalt.tech" /></a>
