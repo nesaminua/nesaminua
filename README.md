@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
-  <img src="./banner-light.png" width="100%" alt="Denys Zaichenko, Forward Deployed AI Engineer. AI agents, web apps, multi-tenant apps, automations. madsalt.tech">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nesaminua/nesaminua/main/banner-dark.png">
+  <img src="https://raw.githubusercontent.com/nesaminua/nesaminua/main/banner-light.png" width="100%" alt="Denys Zaichenko, Forward Deployed AI Engineer. AI agents, web apps, multi-tenant apps, automations. madsalt.tech">
 </picture>
 
 Most developers ask for a spec. I learn how your business actually works, then build the AI agents, web apps, multi-tenant apps and automations it needs.
@@ -11,7 +11,7 @@ Most developers ask for a spec. I learn how your business actually works, then b
 
 Connect a Supabase project read-only and get a graded report against 45 rules mapped to OWASP Top 10:2025: RLS, policies, functions, grants and auth settings. Every finding comes with fix SQL and a prompt for your AI agent. No paywall, 16 languages.
 
-<a href="https://madsalt.tech/tools/supabase-security-check/"><img src="./supabase-check.webp" width="100%" alt="Sample report from the Supabase security check: grade F, 27 of 45 checks passed, 1 critical, 4 high, 5 medium, 7 low and 1 info finding, with buttons to copy a prompt for an AI agent, save as PDF and scan again."></a>
+<a href="https://madsalt.tech/tools/supabase-security-check/"><img src="https://raw.githubusercontent.com/nesaminua/nesaminua/main/supabase-check.webp" width="100%" alt="Sample report from the Supabase security check: grade F, 27 of 45 checks passed, 1 critical, 4 high, 5 medium, 7 low and 1 info finding, with buttons to copy a prompt for an AI agent, save as PDF and scan again."></a>
 
 **[Run the free check](https://madsalt.tech/tools/supabase-security-check/)**
 
