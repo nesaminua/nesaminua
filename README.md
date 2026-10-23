@@ -1,47 +1,43 @@
-<p align="center">
-  <a href="https://madsalt.tech/"><img src="https://madsalt.tech/og/en/default.png" width="720" alt="Denys Zaichenko, Forward Deployed AI Engineer" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+  <img src="./banner-light.png" width="100%" alt="Denys Zaichenko, Forward Deployed AI Engineer. AI agents, web apps, multi-tenant apps, automations. madsalt.tech">
+</picture>
 
-<h1 align="center">Hi, I'm Denys Zaichenko</h1>
-<h3 align="center">Forward Deployed AI Engineer · Portugal</h3>
+Most developers ask for a spec. I learn how your business actually works, then build the AI agents, web apps, multi-tenant apps and automations it needs.
 
-<p align="center">
-  <a href="https://madsalt.tech/"><img src="https://img.shields.io/badge/website-madsalt.tech-0e75b6?style=for-the-badge" alt="madsalt.tech" /></a>
-  <a href="https://madsalt.tech/tools/supabase-security-check/"><img src="https://img.shields.io/badge/free-Supabase%20security%20check-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" alt="Free Supabase security check" /></a>
-  <a href="https://www.upwork.com/freelancers/~01ef48a69d4d790d44"><img src="https://img.shields.io/badge/Upwork-hire%20me-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-</p>
+**[madsalt.tech](https://madsalt.tech/)** · [Free Supabase security check](https://madsalt.tech/tools/supabase-security-check/) · [Blog](https://madsalt.tech/blog/) · [Book a 30-min call](https://madsalt.tech/#contact)
 
-<br>
+## Free Supabase security check
 
-Most developers ask for a spec. I learn how your business actually works, then ship AI agents, web apps, automations and dashboards every week.
+Connect a Supabase project read-only and get a graded report against 45 rules mapped to OWASP Top 10:2025: RLS, policies, functions, grants and auth settings. Every finding comes with fix SQL and a prompt for your AI agent. No paywall, 16 languages.
 
-- 🛡️ Free tool: **[Supabase Security Check](https://madsalt.tech/tools/supabase-security-check/)**. Connect a Supabase project read-only and check it against 45 rules mapped to OWASP Top 10:2025: RLS, policies, functions, auth. Every finding comes with fix SQL and an AI prompt. 16 languages, no paywall.
-- 🔧 Open source: [claude-code-lsp-enforcement-kit](https://github.com/nesaminua/claude-code-lsp-enforcement-kit), hooks that make Claude Code navigate code through LSP instead of grep.
-- 🌱 Stack: TypeScript, React, Next.js, Astro, Node.js, Python, PostgreSQL and Supabase, LLM agents, RAG, web scraping.
-- 📫 Reach me: [book a 30-min call](https://madsalt.tech/#contact)
+<a href="https://madsalt.tech/tools/supabase-security-check/"><img src="./supabase-check.webp" width="100%" alt="Sample report from the Supabase security check: grade F, 27 of 45 checks passed, 1 critical, 4 high, 5 medium, 7 low and 1 info finding, with buttons to copy a prompt for an AI agent, save as PDF and scan again."></a>
 
-## Supabase security, from real projects
+**[Run the free check](https://madsalt.tech/tools/supabase-security-check/)**
 
-| Article | What it covers |
-|---|---|
-| [How to test Supabase RLS](https://madsalt.tech/blog/how-to-test-supabase-rls/) | 30 of 87 permissions did nothing |
-| [Lovable app security](https://madsalt.tech/blog/lovable-app-security-checklist/) | 12 checks I run, and 8 I added |
-| [Supabase exposed schemas](https://madsalt.tech/notes/supabase-exposed-schemas/) | what the list opens up |
-| [raw_user_meta_data](https://madsalt.tech/notes/supabase-raw-user-meta-data-role/) | how a sign-up became Owner |
-| [Multi-tenant RLS](https://madsalt.tech/notes/supabase-rls-user-in-two-organizations/) | why a user in two orgs leaks data |
-| [PL/pgSQL `IF NOT` and NULL](https://madsalt.tech/notes/plpgsql-if-not-null-fails-open/) | a NULL skipped the check on 3683 tasks |
+## Writing
 
-## AI agents and automation
+**Supabase security**
 
-| Article | What it covers |
-|---|---|
-| [Multi-agent orchestration](https://madsalt.tech/blog/multi-agent-orchestration-what-broke/) | what broke in 3,315 agent runs |
-| [How much does an AI agent cost to run?](https://madsalt.tech/blog/how-much-does-an-ai-agent-cost/) | numbers from 4 builds |
-| [Do you still need invoice OCR?](https://madsalt.tech/blog/invoice-data-extraction-with-ai/) | 4 AI models tested |
-| [What is a forward deployed engineer?](https://madsalt.tech/blog/what-is-a-forward-deployed-engineer/) | and do you need one |
+- [How to test Supabase RLS](https://madsalt.tech/blog/how-to-test-supabase-rls/): 30 of 87 permissions did nothing
+- [Lovable app security](https://madsalt.tech/blog/lovable-app-security-checklist/): 12 checks I run, and 8 I added
+- [Supabase exposed schemas](https://madsalt.tech/notes/supabase-exposed-schemas/): what the list opens up
+- [Supabase raw_user_meta_data](https://madsalt.tech/notes/supabase-raw-user-meta-data-role/): how a sign-up became Owner
 
-<p align="center">
-  <a href="https://madsalt.tech/blog/">All articles</a> ·
-  <a href="https://madsalt.tech/notes/">Field notes</a> ·
-  <a href="https://madsalt.tech/work/">Case studies</a>
-</p>
+**AI agents**
+
+- [Multi-agent orchestration](https://madsalt.tech/blog/multi-agent-orchestration-what-broke/): what broke in 3,315 agent runs
+- [How much does an AI agent cost to run?](https://madsalt.tech/blog/how-much-does-an-ai-agent-cost/): numbers from 4 builds
+- [Do you still need invoice OCR?](https://madsalt.tech/blog/invoice-data-extraction-with-ai/): 4 AI models tested
+
+[All articles](https://madsalt.tech/blog/) · [Field notes](https://madsalt.tech/notes/) · [Case studies](https://madsalt.tech/work/)
+
+## Open source
+
+[**claude-code-lsp-enforcement-kit**](https://github.com/nesaminua/claude-code-lsp-enforcement-kit): hooks that make Claude Code navigate code through LSP instead of grep.
+
+## Work with me
+
+I join a team on a monthly subscription and ship every week. [Book a 30-min call](https://madsalt.tech/#contact) or [hire me on Upwork](https://www.upwork.com/freelancers/~01ef48a69d4d790d44).
+
+<sub>TypeScript · React · Next.js · Astro · Node.js · Python · PostgreSQL · Supabase</sub>
